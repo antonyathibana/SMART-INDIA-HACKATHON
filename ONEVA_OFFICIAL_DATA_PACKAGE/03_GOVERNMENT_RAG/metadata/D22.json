@@ -1,0 +1,24 @@
+{
+  "document_id": "D22",
+  "title": "PIB: Investment and turnover limits for MSME classification enhanced (PRID 2098389) + MSME gazette notification page",
+  "organization": "Press Information Bureau / Ministry of MSME",
+  "department": "Ministry of MSME",
+  "document_type": "Press release / notification",
+  "publication_date": "2025-02",
+  "effective_date": "2025-04-01",
+  "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098389",
+  "download_url": "https://www.msme.gov.in/whatsnew/new-criteria-classification-micro-small-and-medium-enterprises-gazette-notification-1st",
+  "retrieved_at": "",
+  "file_name": "D22_Udyam.html",
+  "file_size": "",
+  "sha256": "",
+  "official_source": true,
+  "language": "English",
+  "pages": 0,
+  "relevant_sections": [
+    "Classification limits"
+  ],
+  "relevance": "Udyam classification for ONEVA enterprise sizing",
+  "verification_status": "NOT DOWNLOADED - host blocked by collection environment egress policy; content verified at search-extract level only. Run 05_SOURCE_REGISTER/fetch_scripts/download_documents.py",
+  "notes": ""
+}

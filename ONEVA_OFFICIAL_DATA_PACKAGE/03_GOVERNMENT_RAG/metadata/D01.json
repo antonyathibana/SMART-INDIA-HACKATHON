@@ -1,0 +1,26 @@
+{
+  "document_id": "D01",
+  "title": "SIH26091 problem statement: AI-Driven Hyper-Local Business Advisory and Financial Structuring Assistant for Rural Micro-Entrepreneurs",
+  "organization": "Smart India Hackathon / Ministry of Social Justice and Empowerment",
+  "department": "Department of Social Justice and Empowerment",
+  "document_type": "Problem statement (web listing)",
+  "publication_date": "2026 (SIH 2026 cycle)",
+  "effective_date": "",
+  "source_url": "https://sih.gov.in/sih2026PS",
+  "download_url": "https://github.com/NoBugNinja/Smart-India-Hackathon-SIH-2026-Problem-Statements/blob/ee69e2d423689f806e06c57c09e99953cebadadb/data/sih2026_ps_20260822_211225.json",
+  "retrieved_at": "2026-09-27",
+  "file_name": "sih2026_ps_20260822_211225.json",
+  "file_size": "724636",
+  "sha256": "3d8e7330d2e656e90b187f46ac2b8c3f108168bd92d16425f487d6802ce1cbe0",
+  "official_source": false,
+  "language": "English",
+  "pages": 0,
+  "relevant_sections": [
+    "Background tiers",
+    "Module 2 Financial Structuring",
+    "Logic A/B"
+  ],
+  "relevance": "Defines ONEVA scope and the scheme-routing assumptions that must be checked against NSFDC",
+  "verification_status": "DOWNLOADED FROM UNOFFICIAL MIRROR (GitHub, commit ee69e2d); official sih.gov.in listing not reachable",
+  "notes": "Original mirror file stored in 01_SIH26091_ELIGIBILITY/source_documents/ and 03_GOVERNMENT_RAG/documents/. Replace with official PDF/listing when reachable."
+}

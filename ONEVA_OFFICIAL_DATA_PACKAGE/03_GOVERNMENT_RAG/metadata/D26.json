@@ -1,0 +1,24 @@
+{
+  "document_id": "D26",
+  "title": "data.gov.in: Current Daily Price of Various Commodities from Various Markets (Mandi)",
+  "organization": "Open Government Data Platform / AGMARKNET",
+  "department": "Ministry of Agriculture & Farmers Welfare",
+  "document_type": "API dataset",
+  "publication_date": "daily",
+  "effective_date": "",
+  "source_url": "https://www.data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi",
+  "download_url": "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070",
+  "retrieved_at": "",
+  "file_name": "D26_Stats.html",
+  "file_size": "",
+  "sha256": "",
+  "official_source": true,
+  "language": "English",
+  "pages": 0,
+  "relevant_sections": [
+    "API fields"
+  ],
+  "relevance": "Official mandi prices",
+  "verification_status": "NOT DOWNLOADED - host blocked by collection environment egress policy; content verified at search-extract level only. Run 05_SOURCE_REGISTER/fetch_scripts/download_documents.py",
+  "notes": ""
+}

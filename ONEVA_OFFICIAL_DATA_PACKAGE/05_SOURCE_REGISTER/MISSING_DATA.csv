@@ -1,0 +1,19 @@
+item,area,reason,status,how_to_close
+Original PDFs/pages + SHA-256 + page numbers for D02-D31,All,Egress policy blocked all .gov.in/.nic.in/cgtmse.in hosts,NEEDS HUMAN REVIEW,Run fetch_scripts/download_documents.py on an unrestricted machine; fill page numbers
+NSFDC board circular for 5 lakh income limit,NSFDC,Only About page + PIB reply found,NEEDS HUMAN REVIEW,Request from NSFDC / TAHDCO
+NSFDC age limit,NSFDC,No official rule found,OFFICIAL SOURCE NOT FOUND,Ask SCA
+NSFDC eligible/excluded activity list,NSFDC,Not on pages read,OFFICIAL SOURCE NOT FOUND,Obtain SCA/NSFDC activity list or annual action plan
+NSFDC split of remaining 10% (beneficiary vs SCA vs subsidy),NSFDC,Not stated on pages read,NOT VERIFIED,TAHDCO scheme norms
+NSFDC 'micro-finance-scheme' page content,NSFDC,Page exists; content not surfaced,NOT VERIFIED,Fetch page
+MUDRA interest rate,MUDRA,Lender-determined,NOT VERIFIED,Do not display as official
+CGFMU fee/coverage,MUDRA,Not researched in depth,NOT VERIFIED,NCGTC website
+CGTMSE SC/ST coverage %,CGTMSE,Ambiguous extract,UNRESOLVED,Read CGS-I scheme doc coverage table
+PMEGP continuation beyond FY 2025-26,PMEGP,No approval document found,UNRESOLVED,Check msme.gov.in / Cabinet decisions
+PMEGP 'family' definition,PMEGP,Conflicting extracts,UNRESOLVED,Read guideline clause
+PMEGP moratorium length,PMEGP,Bank-determined; no official figure,NOT VERIFIED,
+Tamil Nadu HCES 2023-24 MPCE (rural/urban),Purchasing power,Official table not readable; only aggregator seen,NOT VERIFIED,Read HCES press note state annex
+Market prices rows,Market,api.data.gov.in blocked; API key needed,NOT COLLECTED,Run fetch_agmarknet.py with DATA_GOV_IN_API_KEY
+Price unit for AGMARKNET API,Market,Not read from resource metadata,NOT VERIFIED,Read resource page; store unit per record
+TN DES district income tables,Market,Host blocked,NOT COLLECTED,Download Statistical Hand Book tables
+TN scheme (UYEGP/NEEDS/AABCS) full parameters,Tamil Nadu,"Only headline values seen (UYEGP loan up to 15 lakh, 25% subsidy max 3.75 lakh; age 18-35/45; AABCS 6% interest subvention up to 10 years)","SINGLE SOURCE, SEARCH-LEVEL",Download G.O.s
+Official SIH26091 listing on sih.gov.in,SIH,Host blocked; mirror used,NEEDS HUMAN REVIEW,Save official page/PDF

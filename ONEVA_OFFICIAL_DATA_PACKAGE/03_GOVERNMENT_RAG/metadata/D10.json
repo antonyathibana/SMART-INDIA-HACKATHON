@@ -1,0 +1,24 @@
+{
+  "document_id": "D10",
+  "title": "MoSJE - NSFDC scheme page",
+  "organization": "Ministry of Social Justice & Empowerment",
+  "department": "Department of Social Justice and Empowerment",
+  "document_type": "Scheme web page",
+  "publication_date": "NOT VERIFIED",
+  "effective_date": "",
+  "source_url": "https://socialjustice.gov.in/schemes/34",
+  "download_url": "https://socialjustice.gov.in/schemes/34",
+  "retrieved_at": "",
+  "file_name": "D10_NSFDC.html",
+  "file_size": "",
+  "sha256": "",
+  "official_source": true,
+  "language": "English",
+  "pages": 0,
+  "relevant_sections": [
+    "NSFDC schemes"
+  ],
+  "relevance": "Ministry-level secondary source",
+  "verification_status": "NOT DOWNLOADED - host blocked by collection environment egress policy; content verified at search-extract level only. Run 05_SOURCE_REGISTER/fetch_scripts/download_documents.py",
+  "notes": ""
+}

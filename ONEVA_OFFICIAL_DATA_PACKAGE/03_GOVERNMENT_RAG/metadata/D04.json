@@ -1,0 +1,24 @@
+{
+  "document_id": "D04",
+  "title": "NSFDC - Eligibility Criteria",
+  "organization": "NSFDC",
+  "department": "MoSJE",
+  "document_type": "Web page",
+  "publication_date": "NOT VERIFIED",
+  "effective_date": "2018-03-08 (stale income text)",
+  "source_url": "https://www.nsfdc.nic.in/en/eligibility-criteria",
+  "download_url": "https://www.nsfdc.nic.in/en/eligibility-criteria",
+  "retrieved_at": "",
+  "file_name": "D04_NSFDC.html",
+  "file_size": "",
+  "sha256": "",
+  "official_source": true,
+  "language": "English",
+  "pages": 0,
+  "relevant_sections": [
+    "Eligibility"
+  ],
+  "relevance": "Eligibility; shows superseded 3 lakh limit (keep for conflict provenance)",
+  "verification_status": "NOT DOWNLOADED - host blocked by collection environment egress policy; content verified at search-extract level only. Run 05_SOURCE_REGISTER/fetch_scripts/download_documents.py",
+  "notes": "Shows superseded income limit (3.00 lakh). Index with effective_to=2026-01-06 to avoid RAG surfacing it as current."
+}

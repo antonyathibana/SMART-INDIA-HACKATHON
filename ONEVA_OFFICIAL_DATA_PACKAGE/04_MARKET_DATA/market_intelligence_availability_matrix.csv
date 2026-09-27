@@ -1,0 +1,20 @@
+business,location,evidence_type,dataset,geography_level,status,label,note
+Poultry (egg layer),"Coimbatore district, Tamil Nadu",MSME density (same NIC),ONEVA Udyam,district/pincode,AVAILABLE,Observed,Registered units only
+Poultry (egg layer),"Coimbatore district, Tamil Nadu","Commodity prices (egg, maize feed)",AGMARKNET via data.gov.in,market,AVAILABLE (after API fetch),Observed,Wholesale
+Poultry (egg layer),"Coimbatore district, Tamil Nadu",Household consumption proxy (egg spend share),HCES 2023-24,state,AVAILABLE,Proxy,State-level consumption indicator
+Poultry (egg layer),"Coimbatore district, Tamil Nadu",Production context,BAHS 2025,state,AVAILABLE,Proxy,"Production, not demand (TN 15.63% of India's eggs)"
+Poultry (egg layer),"Coimbatore district, Tamil Nadu",District economic indicator,TN DES district income,district,AVAILABLE (not fetched),Proxy,
+Poultry (egg layer),"Coimbatore district, Tamil Nadu",Direct consumer demand,-,-,UNAVAILABLE,Unavailable,No official source
+Dairy (milk collection/retail),Any TN block,MSME density,ONEVA Udyam,district/pincode,AVAILABLE,Observed,
+Dairy (milk collection/retail),Any TN block,Milk production context,BAHS 2025,state,AVAILABLE,Proxy,Production
+Dairy (milk collection/retail),Any TN block,Milk spend share,HCES 2023-24,state,AVAILABLE,Proxy,
+Dairy (milk collection/retail),Any TN block,Milk procurement price,Aavin/TN Co-op,state,NOT COLLECTED,Unavailable,Not an OGD dataset in this collection
+Dairy (milk collection/retail),Any TN block,Direct consumer demand,-,-,UNAVAILABLE,Unavailable,
+Textiles / tailoring,"Tiruppur district, Tamil Nadu",MSME density,ONEVA Udyam,district/pincode,AVAILABLE,Observed,
+Textiles / tailoring,"Tiruppur district, Tamil Nadu",Clothing spend share,HCES 2023-24,state,AVAILABLE,Proxy,
+Textiles / tailoring,"Tiruppur district, Tamil Nadu",Commodity prices (cotton),AGMARKNET,market,AVAILABLE (after API fetch),Observed,Raw cotton only
+Textiles / tailoring,"Tiruppur district, Tamil Nadu",Direct consumer demand,-,-,UNAVAILABLE,Unavailable,
+Kirana / retail,Any village,MSME density (retail NIC 47xx),ONEVA Udyam,pincode,AVAILABLE,Observed,Retail registration under Udyam since 2021 - undercounts informal shops
+Kirana / retail,Any village,Population within 5-10 km,Census 2011 / LGD,village,AVAILABLE (not fetched; 2011),Derived,Outdated
+Kirana / retail,Any village,Per-capita consumption,HCES 2023-24,state rural/urban,AVAILABLE,Proxy,
+Kirana / retail,Any village,Direct consumer demand,-,-,UNAVAILABLE,Unavailable,
