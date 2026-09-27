@@ -1,6 +1,6 @@
-# ONEVA — AI-Driven Hyper-Local Business Advisory and Financial Structuring Assistant for Rural Micro-Entrepreneurs
 
-SIH 2026, Problem Statement 26091. A deterministic, non-LLM-first advisory
+SIH 2026, Problem Statement 
+. A deterministic, non-LLM-first advisory
 pipeline for rural MSMEs: real Udyam registration data, real geocoded
 locations, real government scheme rules — with an LLM layer used only to
 *explain* figures the deterministic backends already computed, never to
